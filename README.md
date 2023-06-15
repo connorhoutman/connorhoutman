@@ -1,6 +1,7 @@
 ### Hi! My name is Connor Houtman.
 
-I'm currently studying Front-End Development and I have a background in UX Design & Photography. Nice to meet you :)
+I'm currently studying Front-End Development and I have a background in UX Design & Photography. 
+Nice to meet you :)
 
 <!--
 **connorhoutman/connorhoutman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
